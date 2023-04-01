@@ -9,7 +9,7 @@
 #include <ctime>
 
 #include <vector>
-
+/*
 namespace integrity
 {
 	namespace utilities
@@ -38,4 +38,4 @@ struct global_integrity
 	} gpu;
 };
 
-extern global_integrity integrity_intellisense;
+extern global_integrity integrity_intellisense;*/
